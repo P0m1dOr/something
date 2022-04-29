@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Futura Font", sans-serif;
+    src: url(../fonts/futura.zip);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    width: 1684px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+/*Header*/
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    gap: 0;
+}
+
+.logo {
+    text-transform: uppercase;
+
+}
