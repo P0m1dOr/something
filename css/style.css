@@ -31,4 +31,6 @@ body {
 }
 div{
     border:1px solid;
+    border-radius:1px solid;
+    scroll-behavior:smooth;
 }
